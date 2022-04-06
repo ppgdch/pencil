@@ -336,7 +336,7 @@ var verbs, nouns, adjectives, adverbs, preposition;
             "Madonna’s ",
             "Vladimir Putin’s ",
             "Christopher Columbus’s  ",
-            "Justin Beiber’s ",
+            "Justin Bieber’s ",
             "George Washington’s  ",
             "Ghandi’s ",
             "Donald Duck’s "
