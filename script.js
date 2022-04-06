@@ -360,7 +360,7 @@ var verbs, nouns, adjectives, adverbs, preposition;
 
               document.getElementById("sentence").innerHTML = content;
             };
-           
+            sentence()
             requestAnimationFrame(loop)
             function loop(){
 
