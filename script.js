@@ -386,9 +386,9 @@ var verbs, nouns, adjectives, adverbs, preposition;
               pressed = false
             })
 
-            document.addEventListener('touchdown', function(){
+            document.addEventListener('touchstart', function(){
               pressed = true
             })
-            document.addEventListener('touchup', function(){
+            document.addEventListener('touchend', function(){
               pressed = false
             })
