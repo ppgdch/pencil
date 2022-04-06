@@ -385,3 +385,10 @@ var verbs, nouns, adjectives, adverbs, preposition;
             document.addEventListener('keyup', function(){
               pressed = false
             })
+
+            document.addEventListener('touchstart', function(){
+              pressed = true
+            })
+            document.addEventListener('touchend', function(){
+              pressed = false
+            })
