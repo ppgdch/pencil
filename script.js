@@ -370,6 +370,7 @@ var verbs, nouns, adjectives, adverbs, preposition;
               }
             }
 
+            /*
             let pressed = false
             document.addEventListener('mousedown', function(){
               pressed = true
@@ -377,7 +378,7 @@ var verbs, nouns, adjectives, adverbs, preposition;
             document.addEventListener('mouseup', function(){
               pressed = false
             })
-
+            */
 
             document.addEventListener('keydown', function(){
               pressed = true
